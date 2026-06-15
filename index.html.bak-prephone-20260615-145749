@@ -28,7 +28,7 @@
   "@type": "LegalService",
   "name": "Sidhu Personal Injury Lawyers Edmonton",
   "url": "https://injury-lawyer-edmonton.com/",
-  "telephone": "(780) 886-8077",
+  "telephone": "(780) 666-0134",
   "email": "info@ngsidhu.com",
   "address": {
     "@type": "PostalAddress",
@@ -494,7 +494,7 @@
       <li><a href="#tactics">Why Us</a></li>
       <li><a href="#faq">FAQ</a></li>
       <li><a href="#contact">Contact</a></li>
-      <li><a href="tel:+17808868077" style="display:inline-flex;align-items:center;gap:.4rem;background:#c9a040;color:#0d1b2a;padding:.45rem 1.05rem;border-radius:30px;font-weight:700;text-decoration:none;white-space:nowrap">&#9742; (780) 886-8077</a></li>
+      <li><a href="tel:+17806660134" style="display:inline-flex;align-items:center;gap:.4rem;background:#c9a040;color:#0d1b2a;padding:.45rem 1.05rem;border-radius:30px;font-weight:700;text-decoration:none;white-space:nowrap">&#9742; (780) 666-0134</a></li>
     </ul>
   </div>
 <div class="lang-switch" id="sidhuLangSwitch">
@@ -525,7 +525,7 @@
       </div>
       <div class="hero-ctas">
         <a href="#" class="btn-gold" data-modal="case">Get My Free Case Review</a>
-        <a href="tel:+17808868077" class="btn-ghost">Call (780) 886-8077</a>
+        <a href="tel:+17806660134" class="btn-ghost">Call (780) 666-0134</a>
       </div>
     </div>
     <div class="hero-card">
@@ -538,7 +538,7 @@
         </div>
         <div class="form-group">
           <label>Phone Number</label>
-          <input type="tel" name="phone" placeholder="(780) 886-8077" required autocomplete="tel">
+          <input type="tel" name="phone" placeholder="(780) 666-0134" required autocomplete="tel">
         </div>
         <div class="form-group">
           <label>Type of Case</label>
@@ -832,7 +832,7 @@
     <p class="cta-sub">There are strict time limits on injury claims in Edmonton. The sooner you call, the stronger your case. Speak directly to a lawyer today, no cost, no obligation.</p>
     <div class="cta-btns">
       <a href="#" class="btn-gold" data-modal="case">Get My Free Case Review</a>
-      <a href="tel:+17808868077" class="btn-ghost" style="border-color:rgba(201,160,64,0.4);color:#fff">Call (780) 886-8077</a>
+      <a href="tel:+17806660134" class="btn-ghost" style="border-color:rgba(201,160,64,0.4);color:#fff">Call (780) 666-0134</a>
     </div>
   </div>
 </section>
@@ -845,9 +845,9 @@
       <h2 class="section-title">Talk to a Edmonton Injury Lawyer Today</h2>
       <p class="section-sub">Call now and speak directly to Shawn. Or fill out the form and we'll get back to you the same business day. Service in English, Punjabi and Hindi across all of Alberta.</p>
       <div style="margin-top:2rem;display:flex;flex-direction:column;gap:1rem">
-        <a href="tel:+17808868077" style="display:flex;align-items:center;gap:0.75rem;color:var(--navy);text-decoration:none;font-weight:700;font-size:1.1rem">
+        <a href="tel:+17806660134" style="display:flex;align-items:center;gap:0.75rem;color:var(--navy);text-decoration:none;font-weight:700;font-size:1.1rem">
           <span style="width:42px;height:42px;background:var(--gold);border-radius:50%;display:flex;align-items:center;justify-content:center"></span>
-          (780) 886-8077
+          (780) 666-0134
         </a>
         <a href="mailto:info@ngsidhu.com" style="display:flex;align-items:center;gap:0.75rem;color:var(--muted);text-decoration:none;font-size:0.9rem">
           <span style="width:42px;height:42px;background:var(--light);border:1px solid #e5e0d5;border-radius:50%;display:flex;align-items:center;justify-content:center"></span>
@@ -863,7 +863,7 @@
         </div>
         <div class="form-group" style="margin-bottom:1rem">
           <label style="display:block;font-size:0.75rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.4rem">Phone Number</label>
-          <input type="tel" name="phone" placeholder="(780) 886-8077" required autocomplete="tel" style="width:100%;background:#f7f6f2;border:1px solid #e5e0d5;border-radius:8px;padding:0.75rem 1rem;font-family:'Inter',sans-serif;font-size:0.88rem;outline:none;color:var(--text)">
+          <input type="tel" name="phone" placeholder="(780) 666-0134" required autocomplete="tel" style="width:100%;background:#f7f6f2;border:1px solid #e5e0d5;border-radius:8px;padding:0.75rem 1rem;font-family:'Inter',sans-serif;font-size:0.88rem;outline:none;color:var(--text)">
         </div>
         <div class="form-group" style="margin-bottom:1rem">
           <label style="display:block;font-size:0.75rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:0.08em;margin-bottom:0.4rem">Type of Case</label>
@@ -955,7 +955,7 @@
     <a href="/sitemap/">Sitemap</a>
   </nav>
   <p>&copy; 2026 Sidhu Legal &middot; 10050 112 St NW, Suite 904, Edmonton, AB T5K 2J1 &middot;
-    <a href="tel:+17808868077">(780) 886-8077</a> &middot;
+    <a href="tel:+17806660134">(780) 666-0134</a> &middot;
     <a href="mailto:info@ngsidhu.com">info@ngsidhu.com</a>
   </p>
   <p>Member of the Law Society of Alberta.</p>
@@ -964,7 +964,7 @@
 
 <!-- STICKY MOBILE CTA -->
 <div class="sticky-cta">
-  <a href="tel:+17808868077" class="sticky-call">Call Now</a>
+  <a href="tel:+17806660134" class="sticky-call">Call Now</a>
   <a href="#" class="sticky-form" data-modal="case">Free Case Review</a>
 </div>
 
@@ -1061,7 +1061,7 @@ function handleForm(e) {
       </div>
       <div class="modal-field">
         <label class="modal-label">Phone Number</label>
-        <input type="tel" name="phone" class="modal-input" placeholder="(780) 886-8077" required autocomplete="tel">
+        <input type="tel" name="phone" class="modal-input" placeholder="(780) 666-0134" required autocomplete="tel">
       </div>
       <div class="modal-field">
         <label class="modal-label">Type of Case</label>
@@ -3092,7 +3092,7 @@ if(_sv6&&_sv6!=='en'&&_ST[_sv6])window.sidhuSetLang(_sv6);
 <script>
 /* === COMPLETE I18N GAP TRANSLATOR (Punjabi / Hindi) — covers sections the base engine misses === */
 (function(){
-  window._sidhuPhone = window._sidhuPhone || "(780) 886-8077";
+  window._sidhuPhone = window._sidhuPhone || "(780) 666-0134";
   function CITY(){ return window._sidhuCity || "Edmonton"; }
   function tok(s){ return (s||"").split("{city}").join(CITY()).split("{phone}").join(window._sidhuPhone); }
   var ORIG = new Map();
@@ -3346,7 +3346,7 @@ document.addEventListener('DOMContentLoaded',function(){
     if(sel && sel.value==='call'){
       if(num)num.style.display='none';
       if(msg)msg.style.display='block';
-      if(cta){cta.innerHTML='\u260e Call (780) 886-8077';cta.setAttribute('href','tel:+17808868077');cta.onclick=null;}
+      if(cta){cta.innerHTML='\u260e Call (780) 666-0134';cta.setAttribute('href','tel:+17806660134');cta.onclick=null;}
       return;
     }
     if(num)num.style.display='';
